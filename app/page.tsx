@@ -49,8 +49,8 @@ export default function Home() {
       <div className="max-w-7xl mx-auto px-4 py-8">
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-blue-900 dark:text-blue-100 mb-4">
-            IPL 2025 Ticket Booking
-          </h1>
+            IPL 2025 Ticket Booking [[ UPDATED ]]
+          </h1> 
           <p className="text-lg text-gray-600 dark:text-gray-300">
             Book your tickets for the most exciting cricket matches
           </p>
